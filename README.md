@@ -3,23 +3,6 @@
 
 Este proyecto es una aplicación web para gestionar finanzas personales. Utiliza **Flask** como backend para manejar una API RESTful y **React** como frontend para una interfaz de usuario dinámica y profesional.
 
-## Estructura del Proyecto
-
-```
-finanzas-personales-proyecto/
-├── backend/                # Backend con Flask
-│   ├── app.py              # API principal
-│   ├── finanzas.db         # Base de datos SQLite
-│   ├── requirements.txt    # Dependencias de Python
-│   └── venv/               # Entorno virtual (opcional)
-├── frontend/               # Frontend con React
-│   ├── node_modules/       # Dependencias de Node.js
-│   ├── public/             # Archivos públicos
-│   ├── src/                # Código fuente de React
-│   ├── package.json        # Dependencias y scripts de React
-│   └── package-lock.json   # Bloqueo de versiones
-└── README.md               # Este archivo
-```
 
 ## Características
 
